@@ -12,5 +12,8 @@
     "koa"
   ],
   "author": "pauky",
-  "license": "ISC"
+  "license": "MIT",
+  "dependencies": {
+    "koa-is-json": "^1.0.0"
+  }
 }
