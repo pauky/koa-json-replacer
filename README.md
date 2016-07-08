@@ -34,6 +34,7 @@ $ GET /
 {
   "foo": "bar123"
 }
+```
 
 # License
 
