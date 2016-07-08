@@ -8,6 +8,11 @@
 $ npm install koa-json-replacer
 ```
 
+## Test
+```
+$ npm test
+```
+
 ## Example
 
 #### koa-v1.x
