@@ -1,6 +1,6 @@
 {
   "name": "koa-json-replacer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "json replacer in koa",
   "main": "index.js",
   "repository": {
