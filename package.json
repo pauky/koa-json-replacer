@@ -4,11 +4,11 @@
   "description": "json replacer in koa",
   "main": "index.js",
   "repository": {
-		"type": "git",
+    "type": "git",
     "url": "https://github.com/pauky/koa-json-replacer"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/.bin/_mocha"
   },
   "keywords": [
     "json",
@@ -19,5 +19,10 @@
   "license": "MIT",
   "dependencies": {
     "koa-is-json": "^1.0.0"
+  },
+  "devDependencies": {
+    "koa": "^1.2.0",
+    "mocha": "^2.5.3",
+    "supertest": "^1.2.0"
   }
 }

@@ -11,6 +11,7 @@ $ npm install koa-json-replacer
 ## Example
 
 ```js
+var koa = require('koa');
 var app = koa();
 var koaJsonReplacer = require('koa-json-replacer');
 
