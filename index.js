@@ -1,7 +1,7 @@
 /**
  * Author: pauky
  * Date: 2016/7/8
- * Verson: 0..0.1
+ * Verson: 1.0.0
  */
 var isJSON = require('koa-is-json');
 
