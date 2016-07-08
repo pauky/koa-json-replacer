@@ -1,11 +1,11 @@
 /**
  * Author: pauky
  * Date: 2016/7/8
- * Verson: 1.0.0
+ * Verson: 1.0.1
  */
 var isJSON = require('koa-is-json');
 
-var koaJsonReplacer = function (replacer) {
+module.exports = function (replacer) {
 	return function *(next) {
 		yield *next;
 
